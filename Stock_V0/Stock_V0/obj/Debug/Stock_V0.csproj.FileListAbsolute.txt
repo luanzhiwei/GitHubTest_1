@@ -1,0 +1,5 @@
+E:\算法程序\Stock_V0\Stock_V0\obj\Debug\ResolveAssemblyReference.cache
+E:\算法程序\Stock_V0\Stock_V0\bin\Debug\Stock_V0.exe
+E:\算法程序\Stock_V0\Stock_V0\bin\Debug\Stock_V0.pdb
+E:\算法程序\Stock_V0\Stock_V0\obj\Debug\Stock_V0.exe
+E:\算法程序\Stock_V0\Stock_V0\obj\Debug\Stock_V0.pdb
